@@ -6,7 +6,7 @@
 ## Screenshots!
 
 ### Welcome Screen 
-<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/WelcomeScreen.png?raw=true" width ="250px" height ="450px>
+<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/WelcomeScreen.png?raw=true" >
 
 ----------------------------------------
 
