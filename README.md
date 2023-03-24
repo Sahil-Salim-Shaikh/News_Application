@@ -6,7 +6,7 @@
 ## Screenshots!
 
 ### Welcome Screen 
-<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/WelcomeScreen.png?raw=true">
+<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/WelcomeScreen.png?raw=true" width ="250px" height ="450px>
 
 ----------------------------------------
 
@@ -26,16 +26,16 @@
 ------------------------------------------
 
 ### Science news
-<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/Science.png?raw=true" width ="250px" height ="450px"> <img src="https://i.postimg.cc/fTmKNbG5/Transaction-Amount.jpg" width ="250px" height ="450px">   
+<img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/Science.png?raw=true" width ="250px" height ="450px"> 
 
 ------------------------------------------
 
-### Select User To Transfer Money
+### Entertainment news
 <img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/Entertainment.png?raw=true" width ="250px" height ="450px">
 
 ------------------------------------------
 
-### Transaction Successful
+### Technology news
 <img src="https://github.com/Sahil-Salim-Shaikh/News_Application/blob/main/Project_img/Technology%20(1).png?raw=true" width ="250px" height ="450px">
 
 ------------------------------------------
