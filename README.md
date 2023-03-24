@@ -1,7 +1,11 @@
 # News_Application
 ## Description
-* Banking System App which keeps track of its user's and their transaction history.
-* Uses SQLite for Database storage.
+* Developed a News Application in Android using Java, which
+will display the news based on different categories such as
+technology, sports, science, health, etc. Used News API, Retrofit, JSON, etc to create the News Application.
+* The Application loads top headlines on the home page and
+has a categories option to see top headlines based on
+categories and country. 
 
 ## Screenshots!
 
